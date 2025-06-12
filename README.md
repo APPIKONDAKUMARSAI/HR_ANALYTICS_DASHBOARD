@@ -82,6 +82,7 @@ Certain office locations show higher attrition than others—East Zone leads wit
 
 🖼️ Screenshot
 Here is a preview of the dashboard:
+https://github.com/APPIKONDAKUMARSAI/HR_ANALYTICS_DASHBOARD/blob/main/HR_ANALYTICS_SNAPSHOT.PNG
 
 
 
